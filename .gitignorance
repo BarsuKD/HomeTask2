@@ -1,5 +1,4 @@
 #Here you can add your ignorace roles
-
 *.db
 *.log
 *.iso
